@@ -5,3 +5,11 @@ function theBeatlesPlay(musician, instrument){
   }
   return array
 }
+
+function johnLennonFacts(facts){
+  array = []
+  while facts{
+
+    facts.shift()
+  }
+}
