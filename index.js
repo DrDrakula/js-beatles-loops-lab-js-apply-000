@@ -8,7 +8,7 @@ function theBeatlesPlay(musician, instrument){
 
 function johnLennonFacts(facts){
   var array = []
-  while facts.length != 0{
+  while (facts.length != 0){
     array.push(facts[0] + "!!!")
     facts.shift()
   }
