@@ -19,5 +19,7 @@ function iLoveTheBeatles(number){
   var array = []
   do{
     array.push("I love the Beatles!")
-  }while(array.length < number)
+  }while(array.length < number){
+    array.push("I love the Beatles!")
+  }
 }
